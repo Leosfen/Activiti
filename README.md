@@ -9,3 +9,4 @@
 
 ## 可以关注本人公众号（Java学习进阶手册）
 
+![image](https://github.com/Leosfen/Activiti/blob/master/image/qrcode_for_gh_204540795c6c_258%20(1).jpg?raw=true)
